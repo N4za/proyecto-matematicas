@@ -31,6 +31,7 @@ Para los sistemas de comunicación entre máquinas se requiere una serie de cara
 Entre los lenguajes más usados para la comunicación de los datos en los servicios web, se encuentran XML y JSON.
 
 XML está basado en etiquetas, como HTML. Es más tradicional pero también es un lenguaje más avanzado, que presenta diversas utilidades para su extensión, validación de la información y sintaxis de los datos, etc.
+
 JSON es un lenguaje más nuevo, basado en sintaxis Javascript. Generalmente, es más ligero y requiere mucho mejor carga del servidor para su procesamiento.
 
 
