@@ -28,6 +28,7 @@ El protocolo de autenticación extensible (EAP )
     
 * MS-CHAP version 2: Proporciona seguridad de alto nivel para las conexiones de acceso remoto, mejorando problemas de la versión anterior, como autenticación unidireccional. 
   Funciona: 
+  
     1. El autenticador (el servidor de acceso remoto o el servidor IAS) envía un desafío al cliente de acceso remoto que consta de un identificador de sesión y una cadena de desafío arbitraria.  Envía la respuesta, que contiene el nombre del usuario y un cifrado.
     2. El cliente de acceso remoto envía una respuesta. 
     3. El cliente de acceso remoto comprueba la respuesta de autenticación y, si es correcta, utiliza la conexión.
